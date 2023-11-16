@@ -17,5 +17,5 @@ will open and you can pick the library to use in your own op(s).
 Be aware that this makes the patch the source for that library, once you delete the patch, the ops will no
 longer work. Fear not though: cables will warn you before deleting such patches.
 
-If you plan to make your ops public somehow preferrably pick libraries that have been put under MIT-License for the
-least conflict with cables' own licencing.
+If you plan to make your ops public somehow preferably pick libraries that have been put under MIT-License for the
+least conflict with cables' own licensing.
